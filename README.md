@@ -3,6 +3,8 @@
 ## Overview
 Bamazon is an Amazon-like storefront created with the MySQL skills we learned. The app takes in orders from customers and depletes stock from the store's inventory as orders are placed. 
 
+![GitHub Logo](/bamazon_ss.PNG)
+
 ## Tasks 
 
 1. Create a MySQL Database called `bamazon`.
