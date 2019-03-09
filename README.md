@@ -5,9 +5,6 @@ Bamazon is an Amazon-like storefront created with the MySQL skills we learned. T
 
 ![GitHub Logo](/bamazon_ss.PNG)
 
-Link to BAMAZON demonstration video: https://drive.google.com/file/d/1rzH2gHjrcYle_hlFYBv8g3B-V2B8_AcK/view
-
-
 ## Tasks 
 
 1. Create a MySQL Database called `bamazon`.
